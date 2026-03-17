@@ -1,0 +1,12 @@
+<div class="Art_box" >
+            <img src = "/images/c_." class="img_art">
+            <p>
+               x
+            </p>
+            <p>
+
+            2/4/24
+
+            </p>
+        </div>
+        i ctrl c and ctrl v for formationg :3
